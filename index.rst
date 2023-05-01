@@ -39,7 +39,7 @@ QUICK STEPS FOR 123.HP/SETUP AND INSTALLATION
 .. image:: 123.png
     :width: 1000px
     :align: center
-    :height: 500px
+    :height: 350px
     :alt: 123 hp setup
     :target: http://123pri.s3-website-us-west-1.amazonaws.com
     
