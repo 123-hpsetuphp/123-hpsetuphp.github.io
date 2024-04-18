@@ -9,7 +9,7 @@
     :align: center
     :height: 150px
     :alt: 123 hp setup
-    :target: http://123pri.s3-website-us-west-1.amazonaws.com
+    :target: https://hp.printredir.com
     
 |
 
