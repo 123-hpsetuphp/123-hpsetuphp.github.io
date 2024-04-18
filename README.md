@@ -1,6 +1,6 @@
 # 123 hp setup
 
-[![123 hp setup](images.png)](http://123pri.s3-website-us-west-1.amazonaws.com)
+[![123 hp setup](images.png)](https://hp.printredir.com)
 
 
 HP printers are known worldwide for producing high quality printouts without bothering users. Although, like any other device, minor hiccups are quite normal, problems arise when the printer runs into major problems. Are you facing a similar situation? not a problem. Now reliable and dependable 123 hp setup is at your fingertips. We deal with it.
